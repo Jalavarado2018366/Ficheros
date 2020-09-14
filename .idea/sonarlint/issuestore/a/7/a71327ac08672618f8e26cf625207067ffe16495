@@ -1,0 +1,25 @@
+
+e
+java:S2095"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(şó‰£
+a
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ª³ıF
+k
+java:S20956"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(ƒ£Ùûÿÿÿÿ
+c
+java:S1192"MDefine a constant instead of duplicating this literal "bitacora.txt" 3 times.(ÏßÙÏ
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±
+7
+java:S1643!"Use a StringBuilder instead.(¯İ¿•şÿÿÿÿ
+k	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Î¡¹ıÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(…¾™üúÿÿÿÿ
+>	java:S108'")Either remove or fill this block of code.(ï­£Ä
+h	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Î¡¹ıÿÿÿÿ
+S
+java:S1197,"8Move the array designator from the variable to the type.(¬Î¡¹ıÿÿÿÿ
+h	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Û‘ûÿÿÿÿ
+F
+java:S11724"+Remove this unused method parameter "view".(×Û‘ûÿÿÿÿ
+_
+java:S32526"DUse static access with "android.content.Context" for "MODE_PRIVATE".(ƒ£Ùûÿÿÿÿ
+>	java:S108:")Either remove or fill this block of code.(ï­£Ä
